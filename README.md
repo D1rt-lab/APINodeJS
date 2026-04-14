@@ -1,5 +1,11 @@
 # 📝 API To-Do List com Node.js (HTTP Puro)
 
+## 👨‍💻 Autor
+
+Iago Guimarães Campos
+2°DS MANHÃ
+TURMA A
+
 ## 📌 Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma API REST de gerenciamento de tarefas (To-Do List), construída utilizando **Node.js puro**, sem o uso de frameworks como Express.
@@ -260,7 +266,3 @@ Este projeto foi essencial para compreender o funcionamento interno de APIs REST
 A implementação sem frameworks proporcionou um entendimento mais profundo do backend, preparando o caminho para o uso de ferramentas como Express e bancos de dados em projetos futuros.
 
 ---
-
-## 👨‍💻 Autor
-
-Iago Guimarães Campos
